@@ -15,7 +15,7 @@ Para iniciar con este cambio primero modificamos en application properties
 
 
 ------------------------------ 
-En la sección pom.xml. Se agrego la <dependency> para mysql-connector-java, para que Spring Boot pueda usar el conector MySQL.
+En la sección pom.xml. Se agrego las dependencias de mysql-connector-java, para que Spring Boot pueda usar el conector MySQL.
 
 ![image](https://github.com/123bry/CambioDeBaseDeDatos/assets/99741524/8193b70c-7eb8-47bc-b091-38afe73e6c37)
 ![image](https://github.com/123bry/CambioDeBaseDeDatos/assets/99741524/7c3af36f-844f-4009-8f12-d0fdeb1b59ad)
@@ -23,7 +23,7 @@ En la sección pom.xml. Se agrego la <dependency> para mysql-connector-java, par
 
 
 -------------------------------
-Prueba en la base de datos
+Prueba en la base de datos MySQL
 
 ![image](https://github.com/123bry/CambioDeBaseDeDatos/assets/99741524/759cacbc-af44-4e90-9a4d-d276e763d14c)
 
