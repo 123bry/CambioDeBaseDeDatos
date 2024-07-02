@@ -3,6 +3,7 @@
 Para iniciar con este cambio primero modificamos en application properties
 - spring.datasource.url: Este define la URL de conexión a tu base de datos MySQL.
 - spring.datasource.username y spring.datasource.password: Son las credenciales para acceder a MySQL. 
+    
      Usuario: Bryan
      Contraseña: 0951@Bry 
 - spring.datasource.driver-class-name: Nos ayuda a especificar la clase del driver de MySQL.
